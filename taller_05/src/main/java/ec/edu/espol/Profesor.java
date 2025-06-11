@@ -13,4 +13,8 @@ public class Profesor extends PersonalAcademico{
     public void aceptarInsscripcion(Curso curso, String usuarioEstudiante){}
 
     public void crearNuevoForo(Foro foro){}
+
+    public void cargarMaterialEducativo(){}
+
+    
 }
