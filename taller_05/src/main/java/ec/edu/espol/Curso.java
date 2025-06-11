@@ -13,5 +13,5 @@ public class Curso {
     private List<Foro> foros;
     private List<ActividadSumativa> actividadesSumativas;
 
-    
+    public void cargarMaterialEducativo(){}
 }

@@ -9,4 +9,6 @@ public class Administrador extends Usuario{
 
     public void asignarResponsable(Curso curso, Profesor responsable){}
 
+    public void resolverProblema(Usuario usuario){}
+
 }
